@@ -1,0 +1,45 @@
+.banner-container {
+    position: relative;
+  }
+
+.banniere {
+    width: 100%;
+   
+    object-fit: cover;
+}
+
+.header {
+    position: sticky;
+    top: 0;
+    background-color: white; /* Ajoutez un arrière-plan si nécessaire */
+    z-index: 1000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2em;
+    
+  }
+  
+  .logo {
+    max-width: 150px; // ou la taille que vous préférez
+    margin-right: auto;
+  }
+  
+  .nav {
+    display: flex;
+    justify-content: space-between;
+    width: 60%; // ajustez selon vos besoins
+    
+    a {
+      text-decoration: none;
+      color: black;
+      margin: 0 1em;
+      font-size: large;
+    }
+
+    a:hover  {
+      background-color: black;
+      color: aliceblue;
+    }
+  }
+  
