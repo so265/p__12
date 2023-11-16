@@ -11,7 +11,7 @@
 .header {
     position: sticky;
     top: 0;
-    background-color: white; /* Ajoutez un arrière-plan si nécessaire */
+    background-color: white; 
     z-index: 1000;
     display: flex;
     justify-content: space-between;
@@ -21,14 +21,13 @@
   }
   
   .logo {
-    max-width: 150px; // ou la taille que vous préférez
-    margin-right: auto;
+    max-width: 150px;
   }
   
   .nav {
     display: flex;
     justify-content: space-between;
-    width: 60%; // ajustez selon vos besoins
+    width: 60%; 
     
     a {
       text-decoration: none;

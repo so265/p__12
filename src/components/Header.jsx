@@ -1,9 +1,9 @@
 import React from 'react'
 import "../styleComponents/Header.scss";
 import logo from '../assets/logo-portofolio.png';
-import banniere from '../assets/banniere6.png';
+import banniere from '../assets/banniere62.png';
 import ApparitionLetters from './MyLetters.jsx';
-import Presentation from './Presentation.jsx';
+
 
 function Header() {
   return (
@@ -13,9 +13,8 @@ function Header() {
       <nav className="nav">
         <a href="#accueil">Accueil</a>
         <a href="#presentation">Présentation</a>
-        <a href="#realisation">Réalisation</a>
-        <a href="#activites">Activités</a>
         <a href="#competences">Compétences</a>
+        <a href="#realisation">Réalisation</a>
         <a href="#contact">Contact</a>
       </nav>
     </header>
@@ -23,7 +22,7 @@ function Header() {
       <ApparitionLetters />
     <img src={banniere} alt="banniere header" className="banniere" />
     </div>
-    <Presentation />
+    
     </div>
   );
 }
