@@ -6,6 +6,8 @@ import ohmyfood from '../assets/ohmyfood.webp';
 import link from '../assets/lien.png';
 import sophiebluel from '../assets/sophiebluel.webp';
 import kasa from '../assets/kasa.webp';
+import nina from '../assets/nina.webp';
+import argentbank from '../assets/argentbank.webp';
 
 function Realisations() {
   return (
@@ -63,11 +65,45 @@ function Realisations() {
         <span>&nbsp;&nbsp;</span>
         <li>React</li>
         </ul>
-        <a href="https://github.com/so265/p_8.git" title="Lien GitHub">
+        <a href="https://github.com/so265/p_9.git" title="Lien GitHub">
           <img src={gitHub} alt="icon gitHub" className='icon-gitHub'/>
         </a>
        </div>
+       <div className='background-booki'><h2>Projet 9 Nina Carducci</h2>
+        <img src={nina} alt="projet seo" className='img-projects'/>
+        <p className='p-center'>Amélioration du site de Nina Carducci<br/>pour améliorer son référencement.</p>
+        <ul className='language'><li>HTML</li>
+        <span>&nbsp;&nbsp;</span>
+        <li>CSS</li>
+        <span>&nbsp;&nbsp;</span>
+        <li>SEO</li>
+        </ul>
+        <a href="https://github.com/so265/p_8.git" title="Lien GitHub">
+          <img src={gitHub} alt="icon gitHub" className='icon-gitHub'/>
+        </a>
+        <span>&nbsp;&nbsp;</span>
+        <a href="https://github.com/so265/p_9.git" title="Lien site">
+          <img src={link} alt="lien site" className='icon-lien-site'/>
+        </a>
+       </div>
+      
+       <div className='background-booki'><h2>Projet 11 ArgentBank</h2>
+        <img src={argentbank} alt="projet argentbank" className='img-projects'/>
+        <p className='p-center'>Mise en place du tableau<br/>de bord des utilisateurs<br/>de la banque en ligne ArgentBank.</p>
+        <ul className='language'><li>SCSS</li>
+        <span>&nbsp;&nbsp;</span>
+        <li>javaScript</li>
+        <span>&nbsp;&nbsp;</span>
+        <li>Redux toolkit</li>
+        <span>&nbsp;&nbsp;</span>
+        <li>MongoDB</li>
 
+        </ul>
+        <a href="https://github.com/so265/p_11.git" title="Lien GitHub">
+          <img src={gitHub} alt="icon gitHub" className='icon-gitHub'/>
+        </a>
+       </div>
+      
 
       </div>
     </div>
