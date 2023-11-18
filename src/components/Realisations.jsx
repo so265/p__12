@@ -11,7 +11,8 @@ import argentbank from '../assets/argentbank.webp';
 
 function Realisations() {
   return (
-    <div id='realisations' ><h1>Mes réalisations</h1>
+    <div id='realisations' >
+      <h1 className='marge-title'>Mes réalisations</h1>
     <div className='cards-projects'>
       <div className='background-booki'><h2>Projet 3 Booki</h2>
         <img src={booki} alt="projet booki" className='img-projects'/>
