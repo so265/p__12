@@ -1,17 +1,23 @@
 {
   "files": {
-    "main.css": "https://so265.github.io/p__12/static/css/main.0b10438e.css",
-    "main.js": "https://so265.github.io/p__12/static/js/main.ba8bef9c.js",
+    "main.css": "https://so265.github.io/p__12/static/css/main.d5ed5e4c.css",
+    "main.js": "https://so265.github.io/p__12/static/js/main.8bc9a07a.js",
     "static/js/787.58f15db9.chunk.js": "https://so265.github.io/p__12/static/js/787.58f15db9.chunk.js",
     "static/media/banniere62.png": "https://so265.github.io/p__12/static/media/banniere62.f8670f01f4eac4c01688.png",
+    "static/media/booki.webp": "https://so265.github.io/p__12/static/media/booki.c507399af7bf07948858.webp",
+    "static/media/kasa.webp": "https://so265.github.io/p__12/static/media/kasa.bf316ffaeb42ebfc79e6.webp",
+    "static/media/sophiebluel.webp": "https://so265.github.io/p__12/static/media/sophiebluel.893d61a800dfe389db7b.webp",
+    "static/media/ohmyfood.webp": "https://so265.github.io/p__12/static/media/ohmyfood.7166e229765cf830d9ba.webp",
+    "static/media/lien.png": "https://so265.github.io/p__12/static/media/lien.09a1e30fa64947e0e6d8.png",
     "static/media/icones.jpg": "https://so265.github.io/p__12/static/media/icones.13f4de2fda0f6b8adf30.jpg",
     "index.html": "https://so265.github.io/p__12/index.html",
-    "main.0b10438e.css.map": "https://so265.github.io/p__12/static/css/main.0b10438e.css.map",
-    "main.ba8bef9c.js.map": "https://so265.github.io/p__12/static/js/main.ba8bef9c.js.map",
+    "static/media/gitHub.webp": "https://so265.github.io/p__12/static/media/gitHub.92819d4091db1757933f.webp",
+    "main.d5ed5e4c.css.map": "https://so265.github.io/p__12/static/css/main.d5ed5e4c.css.map",
+    "main.8bc9a07a.js.map": "https://so265.github.io/p__12/static/js/main.8bc9a07a.js.map",
     "787.58f15db9.chunk.js.map": "https://so265.github.io/p__12/static/js/787.58f15db9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b10438e.css",
-    "static/js/main.ba8bef9c.js"
+    "static/css/main.d5ed5e4c.css",
+    "static/js/main.8bc9a07a.js"
   ]
 }
