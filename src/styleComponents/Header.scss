@@ -1,50 +1,64 @@
 .banner-container {
-    position: relative;
-  }
+  position: relative;
+}
 
 .banniere {
-    width: 100%;
-    max-width: 100%; // pour pas que l'image se pixelise sur les grands écran
-    height: auto;
-    object-fit: cover;
+  width: 100%;
+  max-width: 100%; // pour pas que l'image se pixelise sur les grands écran
+  height: auto;
+  object-fit: cover;
 }
 
 .header {
-    position: sticky;
-    top: 0;
-    background-color: white; 
-    z-index: 1000;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 2em;
-   }
-  
-  .logo {
-    max-width: 150px;
-  }
-  
-  .nav {
-    display: flex;
-    justify-content: space-between;
-    
-    a {
-      text-decoration: none;
-      color: black;
-      margin: 0 1em;
-      font-size: large;
-    }
-
-    a:hover  {
-      background-color: black;
-      color: aliceblue;
-    }
-  }
-  
-  @media (max-width: 767.98px) {
-    .nav {
-    display: flex;
-    justify-content: space-between;
-    flex-direction: column;
+  position: sticky;
+  top: 0;
+  background-color: white;
+  z-index: 1000;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2em;
+  flex-wrap: wrap;
 }
+
+.logo {
+  max-width: 150px;
+
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+
+  a {
+    text-decoration: none;
+    color: black;
+    margin: 0 1em;
+    font-size: large;
   }
+
+  a:hover {
+    background-color: black;
+    color: aliceblue;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .nav {
+   justify-content: center;
+    width: 100%;
+  }
+
+  .nav a {
+    font-size: 10px;
+    margin: 0.5em;
+
+  }
+
+  .logo {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+  }
+}
