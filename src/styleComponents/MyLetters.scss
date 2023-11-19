@@ -6,6 +6,14 @@
     left: 50%;
     transform: translate(-50%, -50%);
     font-weight: bolder;
-    
     text-shadow: 2px 2px 2px rgba(255, 255, 255, 0.5);
-} // apparition lettres l'une apres l'autre
+}
+
+/* apparition lettres l'une apres l'autre*/
+
+@media (max-width: 767.98px) {
+    .apparition-letters {
+        font-size: 25px;
+        top: 35%;
+    }
+}
