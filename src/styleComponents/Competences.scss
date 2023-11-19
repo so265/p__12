@@ -16,10 +16,30 @@
     margin: 5px;
 }
 
-@media (max-width: 767.98px) {
+@media all and (min-width: 768px) and (max-width: 1240px) {
     .all-icones img {
-      margin-bottom: 80px;
+        width: auto;
+        height: 65px; 
+        flex: 0 0 auto; /* Laisse les icônes sur une ligne en version tablette */
+    }
+}
+
+@media (max-width: 767.98px) {
+    .all-icones {
+        
+        justify-content:center;
+        
+    }
+
+    .all-icones img {
+      //margin-bottom: 80px;
       margin-right: 50px;
       height: 50px;
+      
+
+     
+      
+      margin: 5px;
+       
   }
   }
