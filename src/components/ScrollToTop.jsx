@@ -4,7 +4,7 @@ import "../styleComponents/ScrollToTop.scss";
 const ScrollToTop = () => {
   const [isVisible, setIsVisible] = useState(false);
 
-  // Afficher le bouton lorsque l'utilisateur défile vers le bas de 500 pixels
+  // Affiche le bouton lorsque l'utilisateur défile vers le bas de 500 pixels
   const toggleVisibility = () => {
     if (window.pageYOffset > 500) {
       setIsVisible(true);
