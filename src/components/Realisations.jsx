@@ -66,7 +66,7 @@ function Realisations() {
         <span>&nbsp;&nbsp;</span>
         <li>React</li>
         </ul>
-        <a href="https://github.com/so265/p_9.git" title="Lien GitHub">
+        <a href="https://github.com/so265/p_8.git" title="Lien GitHub">
           <img src={gitHub} alt="icon gitHub" className='icon-gitHub'/>
         </a>
        </div>
@@ -79,11 +79,11 @@ function Realisations() {
         <span>&nbsp;&nbsp;</span>
         <li>SEO</li>
         </ul>
-        <a href="https://github.com/so265/p_8.git" title="Lien GitHub">
+        <a href="https://github.com/so265/p_9.git" title="Lien GitHub">
           <img src={gitHub} alt="icon gitHub" className='icon-gitHub'/>
         </a>
         <span>&nbsp;&nbsp;</span>
-        <a href="https://github.com/so265/p_9.git" title="Lien site">
+        <a href="https://so265.github.io/p_9/" title="Lien site">
           <img src={link} alt="lien site" className='icon-lien-site'/>
         </a>
        </div>

@@ -67,6 +67,12 @@ ul {
     padding: 0; /* Je Supprime la marge intérieure de la liste par défaut */
 }
 
+a {
+    text-decoration: none;
+    color: inherit; 
+  }
+  
+
 @media (max-width: 767.98px) {
     .cards-projects {
        flex-direction: column;
