@@ -5,6 +5,7 @@
 .banniere {
   width: 100%;
   max-width: 100%; // pour pas que l'image se pixelise sur les grands écran
+  max-height: 450px;
   height: auto;
   object-fit: cover;
 }

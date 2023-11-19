@@ -31,6 +31,7 @@
 
 .icon-gitHub, .icon-lien-site {
     width: 30px;
+    max-width: 30px;
 }
 
 .img-projects {
@@ -38,7 +39,7 @@
 	transform: scale(1);
 	-webkit-transition: .3s ease-in-out;
 	transition: .3s ease-in-out;
-    object-fit: cover;
+    object-fit: contain; /*evite le rognage des images sur un grand écran*/
     max-width: 100%;
     width: 100%;
     height: auto;
