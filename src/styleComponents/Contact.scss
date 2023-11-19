@@ -1,0 +1,29 @@
+#contact {
+    text-align: center;
+}
+
+.whrite-me {
+    text-align: center;
+    padding: 10px;
+    border: 2px solid black;
+    margin: auto;
+    max-width: 10%;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.whrite-me a {
+    text-decoration: none;
+    color: black;
+    -webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+   
+}
+
+.whrite-me:hover {
+    -webkit-transform: scale(1.3);
+	transform: scale(1.3);
+    background-color: rgb(255, 239, 239);
+}
