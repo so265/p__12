@@ -14,7 +14,7 @@ function Competences() {
     <div>
     <h1 id='competences' >Mes compétences</h1>
     <div className='all-icones'>
-    <img src={gitHub} alt="icone hml-css-js" className="gitHub" /> 
+    <img src={gitHub} alt="icone gitHub" className="gitHub" /> 
      <img src={icones} alt="icone hml-css-js" className="icones" /> 
      <img src={redux} alt="icone React" className="React-icone" /> 
      <img src={node} alt="icone nodeJs" className="node" /> 
