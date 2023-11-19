@@ -98,7 +98,6 @@ function Realisations() {
         <li>Redux toolkit</li>
         <span>&nbsp;&nbsp;</span>
         <li>MongoDB</li>
-
         </ul>
         <a href="https://github.com/so265/p_11.git" title="Lien GitHub">
           <img src={gitHub} alt="icon gitHub" className='icon-gitHub'/>

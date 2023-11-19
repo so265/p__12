@@ -73,10 +73,9 @@ a {
     color: inherit; 
   }
   
-
 @media (max-width: 767.98px) {
     #realisations {
-        margin-top: 70px;
+        margin-top: 50px;
     }
     .cards-projects {
        flex-direction: column;
@@ -84,6 +83,7 @@ a {
     
    .background-booki {
        width: 100%;
+       margin-bottom: 50px;
     }
   }
   

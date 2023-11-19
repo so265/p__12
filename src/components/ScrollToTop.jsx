@@ -6,14 +6,14 @@ const ScrollToTop = () => {
 
   // Affiche le bouton lorsque l'utilisateur défile vers le bas de 500 pixels
   const toggleVisibility = () => {
-    if (window.pageYOffset > 500) {
+    if (window.scrollY > 500) {
       setIsVisible(true);
     } else {
       setIsVisible(false);
     }
   };
 
-  // Faire défiler jusqu'en haut de la page
+  // Pour faire défiler jusqu'en haut de la page
   const scrollToTop = () => {
     window.scrollTo({
       top: 0,

@@ -6,21 +6,15 @@ import Competences from './components/Competences.jsx';
 import Contact from './components/Contact.jsx';
 import Footer from './components/Footer.jsx';
 
-
-
-
-
 function App() {
   return (
     <div>
-   
-<Header />
-<Presentation />
-<Competences />
-<Realisations />
-<Contact />
-<Footer />
-
+      <Header />
+      <Presentation />
+      <Competences />
+      <Realisations />
+      <Contact />
+      <Footer />
     </div>
   )
 }
