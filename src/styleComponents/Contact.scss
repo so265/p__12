@@ -28,6 +28,12 @@
     background-color: rgb(255, 239, 239);
 }
 
+@media all and (min-width: 768px) and (max-width: 1240px) {
+    .whrite-me {
+        max-width: 30%;
+    }
+}
+
 @media (max-width: 767.98px) {
     .whrite-me {
         max-width: 40%;
