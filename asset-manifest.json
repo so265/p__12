@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "https://so265.github.io/p__12/static/css/main.7baa8646.css",
-    "main.js": "https://so265.github.io/p__12/static/js/main.efd33540.js",
+    "main.css": "https://so265.github.io/p__12/static/css/main.5ff54192.css",
+    "main.js": "https://so265.github.io/p__12/static/js/main.c0a2e4d1.js",
     "static/js/787.58f15db9.chunk.js": "https://so265.github.io/p__12/static/js/787.58f15db9.chunk.js",
     "static/media/banniere62.png": "https://so265.github.io/p__12/static/media/banniere62.f8670f01f4eac4c01688.png",
     "static/media/booki.webp": "https://so265.github.io/p__12/static/media/booki.c507399af7bf07948858.webp",
@@ -14,12 +14,12 @@
     "static/media/icones.jpg": "https://so265.github.io/p__12/static/media/icones.13f4de2fda0f6b8adf30.jpg",
     "index.html": "https://so265.github.io/p__12/index.html",
     "static/media/gitHub.webp": "https://so265.github.io/p__12/static/media/gitHub.92819d4091db1757933f.webp",
-    "main.7baa8646.css.map": "https://so265.github.io/p__12/static/css/main.7baa8646.css.map",
-    "main.efd33540.js.map": "https://so265.github.io/p__12/static/js/main.efd33540.js.map",
+    "main.5ff54192.css.map": "https://so265.github.io/p__12/static/css/main.5ff54192.css.map",
+    "main.c0a2e4d1.js.map": "https://so265.github.io/p__12/static/js/main.c0a2e4d1.js.map",
     "787.58f15db9.chunk.js.map": "https://so265.github.io/p__12/static/js/787.58f15db9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7baa8646.css",
-    "static/js/main.efd33540.js"
+    "static/css/main.5ff54192.css",
+    "static/js/main.c0a2e4d1.js"
   ]
 }
