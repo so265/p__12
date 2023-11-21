@@ -42,7 +42,7 @@ function Realisations() {
       </div>
       <div className='background-booki'><h2>Projet 6 Sophie Bluel</h2>
         <img src={sophiebluel} alt="projet booki" className='img-projects'/>
-        <p className='p-center'>Conception du portofolio<br/>de l'architecte<br/>Sophie Bluel.</p>
+        <p className='p-center'>Conception du portfolio<br/>de l'architecte<br/>Sophie Bluel.</p>
         <ul className='language'><li>HTML</li>
         <li>CSS</li>
        <li>javaScript</li>
