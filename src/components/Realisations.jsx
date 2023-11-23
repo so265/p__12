@@ -3,7 +3,7 @@ import "../styleComponents/Realisations.scss";
 import booki from '../assets/booki.webp';
 import gitHub from '../assets/gitHub.webp';
 import ohmyfood from '../assets/ohmyfood.webp';
-import link from '../assets/lien.png';
+import link from '../assets/lien.webp';
 import sophiebluel from '../assets/sophiebluel.webp';
 import kasa from '../assets/kasa.webp';
 import nina from '../assets/nina.webp';

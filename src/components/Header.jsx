@@ -1,7 +1,7 @@
 import React from 'react'
 import "../styleComponents/Header.scss";
-import logo from '../assets/logo-portofolio.png';
-import banniere from '../assets/banniere62.png';
+import logo from '../assets/logo-portofolio.webp';
+import banniere from '../assets/banniere62.webp';
 import ApparitionLetters from './MyLetters.jsx';
 
 

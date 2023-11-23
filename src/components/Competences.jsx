@@ -1,12 +1,12 @@
 import React from 'react'
 import "../styleComponents/Competences.scss";
-import gitHub from '../assets/gitHub.png';
-import icones from '../assets/icones.jpg';
-import redux from '../assets/redux.png';
-import node from '../assets/node.jpg';
-import sass from '../assets/sass.png';
-import figma from '../assets/figma.png';
-import seo from '../assets/seo.png';
+import gitHub from '../assets/gitHubLink.webp';
+import icones from '../assets/icones.webp';
+import redux from '../assets/redux.webp';
+import node from '../assets/node.webp';
+import sass from '../assets/sass.webp';
+import figma from '../assets/figma.webp';
+import seo from '../assets/seo.webp';
 
 
 function Competences() {

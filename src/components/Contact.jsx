@@ -1,6 +1,6 @@
 import React from 'react'
 import "../styleComponents/Contact.scss";
-import ScrollToTop from './ScrollToTop';
+import ScrollToTop from './ScrollToTop.jsx';
 
 function Contact() {
   return (
