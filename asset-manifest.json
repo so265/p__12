@@ -1,25 +1,32 @@
 {
   "files": {
     "main.css": "https://so265.github.io/p__12/static/css/main.b928bb0d.css",
-    "main.js": "https://so265.github.io/p__12/static/js/main.3b49eb33.js",
+    "main.js": "https://so265.github.io/p__12/static/js/main.71a5af56.js",
     "static/js/787.58f15db9.chunk.js": "https://so265.github.io/p__12/static/js/787.58f15db9.chunk.js",
-    "static/media/banniere62.png": "https://so265.github.io/p__12/static/media/banniere62.f8670f01f4eac4c01688.png",
     "static/media/booki.webp": "https://so265.github.io/p__12/static/media/booki.c507399af7bf07948858.webp",
     "static/media/kasa.webp": "https://so265.github.io/p__12/static/media/kasa.bf316ffaeb42ebfc79e6.webp",
     "static/media/nina.webp": "https://so265.github.io/p__12/static/media/nina.675002e90f0bc721e238.webp",
     "static/media/sophiebluel.webp": "https://so265.github.io/p__12/static/media/sophiebluel.893d61a800dfe389db7b.webp",
     "static/media/ohmyfood.webp": "https://so265.github.io/p__12/static/media/ohmyfood.7166e229765cf830d9ba.webp",
+    "static/media/banniere62.webp": "https://so265.github.io/p__12/static/media/banniere62.6618fd6823cd076f9382.webp",
     "static/media/argentbank.webp": "https://so265.github.io/p__12/static/media/argentbank.fbc47a1a3e4ae4c7f23d.webp",
-    "static/media/lien.png": "https://so265.github.io/p__12/static/media/lien.09a1e30fa64947e0e6d8.png",
-    "static/media/icones.jpg": "https://so265.github.io/p__12/static/media/icones.13f4de2fda0f6b8adf30.jpg",
+    "static/media/icones.webp": "https://so265.github.io/p__12/static/media/icones.cbd471e75dafd36c19f3.webp",
+    "static/media/redux.webp": "https://so265.github.io/p__12/static/media/redux.31d0372ef82b9ffe5bc7.webp",
+    "static/media/lien.webp": "https://so265.github.io/p__12/static/media/lien.b740a94c4f47ae51c260.webp",
+    "static/media/logo-portofolio.webp": "https://so265.github.io/p__12/static/media/logo-portofolio.35a5a0103271076c14fe.webp",
+    "static/media/sass.webp": "https://so265.github.io/p__12/static/media/sass.f500b57ebb5d87be46f6.webp",
+    "static/media/node.webp": "https://so265.github.io/p__12/static/media/node.b8aaf2ab50917e5edcec.webp",
+    "static/media/seo.webp": "https://so265.github.io/p__12/static/media/seo.98730bc7ba1d30221799.webp",
+    "static/media/figma.webp": "https://so265.github.io/p__12/static/media/figma.c13f60a9432081510882.webp",
+    "static/media/gitHubLink.webp": "https://so265.github.io/p__12/static/media/gitHubLink.8b662edb0086df09c194.webp",
     "index.html": "https://so265.github.io/p__12/index.html",
     "static/media/gitHub.webp": "https://so265.github.io/p__12/static/media/gitHub.92819d4091db1757933f.webp",
     "main.b928bb0d.css.map": "https://so265.github.io/p__12/static/css/main.b928bb0d.css.map",
-    "main.3b49eb33.js.map": "https://so265.github.io/p__12/static/js/main.3b49eb33.js.map",
+    "main.71a5af56.js.map": "https://so265.github.io/p__12/static/js/main.71a5af56.js.map",
     "787.58f15db9.chunk.js.map": "https://so265.github.io/p__12/static/js/787.58f15db9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b928bb0d.css",
-    "static/js/main.3b49eb33.js"
+    "static/js/main.71a5af56.js"
   ]
 }
