@@ -6,7 +6,7 @@ function Contact() {
   return (
     <div>
         <h1 id='contact'>Pour me contacter</h1>
-        <p className='whrite-me'><a href="mailto:undia42@gmail.com">Whrite-me</a></p>
+        <a href="mailto:undia42@gmail.com"><p className='whrite-me'>Whrite-me</p></a>
         <ScrollToTop />
         </div>
   )
